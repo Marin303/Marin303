@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on this page. 
+#### I am currently learning JavaScript 
 <!--
 **Marin303/Marin303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
