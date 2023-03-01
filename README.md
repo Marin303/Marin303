@@ -1,8 +1,14 @@
-### Hi there 👋
-#### I am currently learning JavaScript 
+### Hi there 👋 
+- 🌱 I’m currently learning JavaScript
+- ⚡ Skills:
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='40'>](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>](https://cdn-icons-png.flaticon.com/512/919/919827.png)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='40'>](https://www.nesabamedia.com/wp-content/uploads/2019/11/Pengertian-JavaScript.png)  
+
+
 <!--
 **Marin303/Marin303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+#### I am currently learning JavaScript
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
