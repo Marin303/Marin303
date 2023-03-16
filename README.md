@@ -1,5 +1,5 @@
 ### Hi there 👋 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript library - React
 - ⚡ Skills:
 
 
