@@ -1,5 +1,5 @@
 ### Hi there 👋 
-- 🌱 I’m currently learning Salesforce software
+- 🌱 I’m currently learning SQL
 - ⚡ Skills:
 
 
