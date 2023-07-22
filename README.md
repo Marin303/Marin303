@@ -1,11 +1,23 @@
-### Hi there 👋 
-- ⚡ Skills:
+<h2> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'>
+</p>
 
+- 👋 Hi, I'm Marin
+- 💼 I'm a Frontend Developer
 
-<img src="https://img.shields.io/badge/-HTML-orange?style=plastic-square&logo=html5&logoColor=white" alt="HTML icon"> <img src="https://img.shields.io/badge/-CSS-1572B6?style=plastic-square&logo=css3&logoColor=white" alt="CSS icon"> 
-<img src="https://img.shields.io/badge/-GIT-orange?style=plastic-square&logo=git&logoColor=white" alt="GIT icon">
-<img src="https://img.shields.io/badge/-JS-yellow?style=plastic-square&logo=javascript&logoColor=white" alt="JS icon">
-<img src="https://img.shields.io/badge/-REACT-9cf?style=plastic-square&logo=react&logoColor=black" alt="REACT icon">
-<img src="https://img.shields.io/badge/-NodeJS-green?style=plastic-square&logo=node.js&logoColor=white" alt="NODE JS icon">
-<img src="https://img.shields.io/badge/-MongoDB-brightgreen?style=plastic-square&logo=mongodb&logoColor=white" alt="MONGO DB icon">
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
+[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,bootstrap,tailwind,js,nodejs,react,redux,ts,mongodb)](https://skillicons.dev)
+
+ 
+
+<h2> Github Stats<img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
+<br>
+
+<p align="center">
+<a href="https://github.com/Marin303">
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=Marin303&show_icons=true&theme=algolia" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marin303&layout=compact&theme=algolia"/>
+</a>
+</p>
+<br>
